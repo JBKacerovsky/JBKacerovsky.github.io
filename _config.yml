@@ -6,7 +6,7 @@
 name: JBK
 
 # Short bio or description (displayed in the header)
-description: Adventures in 3D land (and 4D and 5D and other stuff)
+description: Adventures in 3D land (and 4D and moreD and other stuff)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kacerovsky@hmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: JBKacerovsky
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/j-benjamin-kacerovsky-521553163/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: BennyKac
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
