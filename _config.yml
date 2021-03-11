@@ -9,7 +9,7 @@ name: JBK
 description: Adventures in 3D land (and 4D and moreD and other stuff)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/logoTemp.png
 
 #
 # Flags below are optional
